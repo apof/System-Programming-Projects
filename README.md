@@ -10,3 +10,5 @@ for Statistic Reporting of the whole Process.
 
 -->Proj3: Implementing a selective overhead mirroring system. The goal of the system is to copy multiple files and directories
 to a remote device. Multiple Client server model has been implemented and many different types of processes such as workers,managers have been designed for this goal. POSIX threads and sockets have been selected for parallelism and inter-network communication.
+
+Extended description (in Greek) and schematic representation for each task can be found in each Project directory.
